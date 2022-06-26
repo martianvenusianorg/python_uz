@@ -1,1 +1,1 @@
-### [Class 1:](./classes_1.html) Classni yaratish?
+### [Class 1:](./classes_1.html) Classni yaratish
