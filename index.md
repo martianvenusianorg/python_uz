@@ -20,6 +20,10 @@
 
 ## **#8:** [Dictionary]
 
+
+# Classes
+
+## **#9:** [Classes](./TUTORIALS/SECTIONS/classes/classes.html)
 <!-- ## **#2:** [Boolean](./tutorial_2.html)
 
 ## **#3:** [Shart ifodalari](./tutorial_3.html)
