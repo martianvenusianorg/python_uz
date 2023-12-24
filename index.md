@@ -4,21 +4,21 @@
 
 # DataTypes
 
-## **#1:** [Integer](./TUTORIALS/SECTIONS/data_types/integer/integer.html)
+## **#1:** [Integer va Float](./TUTORIALS/SECTIONS/data_types/numbers.html)
 
-## **#2:** [Float](./TUTORIALS/SECTIONS/data_types/float/float.html)
+## **#2:** [Constant](./TUTORIALS/SECTIONS/data_types/constant.html)
 
-## **#3:** [String]
+## **#3:** [String](./TUTORIALS/SECTIONS/data_types/string.html)
 
-## **#4:** [Boolean]
+## **#4:** [Boolean](./TUTORIALS/SECTIONS/data_types/boolean.html)
 
 ## **#5:** [List](./TUTORIALS/SECTIONS/data_types/list.html)
 
-## **#6:** [Tuple]
+## **#6:** [Tuple](./TUTORIALS/SECTIONS/data_types/tuple.html)
 
-## **#7:** [Set]
+## **#7:** [Set](./TUTORIALS/SECTIONS/data_types/set.html)
 
-## **#8:** [Dictionary]
+## **#8:** [Dictionary](./TUTORIALS/SECTIONS/data_types/dictionary.html)
 
 
 # Classes
