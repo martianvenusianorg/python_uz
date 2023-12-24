@@ -57,3 +57,22 @@ b = 2
 c = a % b
 print(c)
 ```
+
+#### Amallar ketma-ketligi
+Python amallar ketma-ketligiga amal qiladi. Shu sababdan bir ifodada ber nechta amallardan foydalanishingiz mumkin. Qolaversa amallar ketma-ketligini tartibga solish uchun qavslardan foydalanishingiz ham mumkin.
+
+```python
+a = 3
+b = 2
+c = 1
+d = a + (b * c)
+print(d)
+```
+
+```python
+a = 3
+b = 2
+c = 1
+d = (a + b) * c
+print(d)
+```
