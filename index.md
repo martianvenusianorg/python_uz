@@ -8,17 +8,17 @@
 
 ## **#2:** [Constant](./TUTORIALS/SECTIONS/data_types/constants.html)
 
-## **#3:** [String] #(./TUTORIALS/SECTIONS/data_types/string.html)
+## **#3:** [String] 
 
-## **#4:** [Boolean] #(./TUTORIALS/SECTIONS/data_types/boolean.html)
+## **#4:** [Boolean]
 
 ## **#5:** [List](./TUTORIALS/SECTIONS/data_types/list.html)
 
-## **#6:** [Tuple] #(./TUTORIALS/SECTIONS/data_types/tuple.html)
+## **#6:** [Tuple]
 
-## **#7:** [Set] #(./TUTORIALS/SECTIONS/data_types/set.html)
+## **#7:** [Set]
 
-## **#8:** [Dictionary] #(./TUTORIALS/SECTIONS/data_types/dictionary.html)
+## **#8:** [Dictionary]
 
 
 # Classes
