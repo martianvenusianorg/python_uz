@@ -4,7 +4,7 @@
 
 # DataTypes
 
-## **#1:** [Integer] (./TUTORIALS/SECTIONS/data_types/integer/integer.html)
+## **#1:** [Integer](./TUTORIALS/SECTIONS/data_types/integer/integer.html)
 
 ## **#2:** [Float]
 
