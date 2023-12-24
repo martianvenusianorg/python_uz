@@ -6,7 +6,7 @@
 
 ## **#1:** [Integer](./TUTORIALS/SECTIONS/data_types/integer/integer.html)
 
-## **#2:** [Float]
+## **#2:** [Float](./TUTORIALS/SECTIONS/data_types/float/float.html)
 
 ## **#3:** [String]
 
