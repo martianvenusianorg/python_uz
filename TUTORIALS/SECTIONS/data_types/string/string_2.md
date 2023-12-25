@@ -1,4 +1,4 @@
-### find
+### .find() metodi
 
 ```python
 str = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
@@ -42,7 +42,7 @@ print(str_i)
 # -1
 ```
 
-### count
+### .count() metodi
 
 ```python
 str = 'abcd-abcd-abcd'
