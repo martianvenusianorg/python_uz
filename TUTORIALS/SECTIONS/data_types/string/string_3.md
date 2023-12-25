@@ -1,3 +1,5 @@
+### .strip() metodi
+
 ```python
 str = ' Python '
 print("'"+str+"'")
@@ -11,6 +13,8 @@ print(type(strip_str))
 # <class 'str'>
 ```
 
+### .lstrip() metodi
+
 ```python
 str = ' Python '
 print("'"+str+"'")
@@ -23,6 +27,8 @@ print("'"+strip_str+"'")
 print(type(strip_str))
 # <class 'str'>
 ```
+
+### .rstrip() metodi
 
 ```python
 str = ' Python '
