@@ -8,7 +8,7 @@
 
 ## **#2:** [Constant](./TUTORIALS/SECTIONS/data_types/constants.html)
 
-## **#3:** [String] 
+## **#3:** [String](./TUTORIALS/SECTIONS/data_types/string.html)
 
 ## **#4:** [Boolean]
 
