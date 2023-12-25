@@ -7,3 +7,5 @@
 ### [String 2:](./string/string_1.html) String .title(), .upper(), .lower(), .capitalize() metodlari
 
 ### [String 3:](./string/string_2.html) String .find() va .count() methodlari.
+
+### [String 4:](./string/string_3.html) String .strip(), .rstrip() va .lstrip() methodlari.
