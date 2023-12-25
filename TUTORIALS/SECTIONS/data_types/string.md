@@ -10,4 +10,6 @@
 
 ### [String 4:](./string/string_3.html) String .strip(), .lstrip() va .rstrip() methodlari.
 
-### [String 5:](./string/string_4.html) String .isdigit(), .islower(), .isupper() vs .isspace() methodlari.
+### [String 5:](./string/string_4.html) String .isdigit(), .islower(), .isupper() va .isspace() methodlari.
+
+### [String 6:](./string/string_5.html) String .split() va .join() methodlari.
