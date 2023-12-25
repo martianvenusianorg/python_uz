@@ -1,3 +1,3 @@
-str = 'bugung tong otdi. va yana quyosh botdi!'
+str = 'bugun tong otdi. va yana quyosh botdi!'
 print(str.capitalize())
-# Bugung tong otdi. va yana quyosh botdi!
+# Bugun tong otdi. va yana quyosh botdi!

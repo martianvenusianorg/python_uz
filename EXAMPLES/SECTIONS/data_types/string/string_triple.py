@@ -1,9 +1,9 @@
 str_text = '''
-bugung tong otdi. 
+bugun tong otdi. 
 Va yana quyosh botdi!
 '''
 print(str_text.capitalize())
 #
-# bugung tong otdi. 
+# bugun tong otdi. 
 # va yana quyosh botdi!
 #
