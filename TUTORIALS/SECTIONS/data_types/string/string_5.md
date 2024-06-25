@@ -1,4 +1,5 @@
 ### .split() metodi
+
 ```python
 str = 'Bugun tong otdi. Va yana quyosh botdi!'
 str_split = str.split('.')
@@ -20,10 +21,36 @@ print(str_split[1])
 ```
 
 ### .join() metodi
+
 ```python
 folder1 = 'D:/folder1'
 folder2 =  'folder2'
 path = ''.join([folder1,'/',folder2,'/'])
 print(path)
 # D:/folder1/folder2/
+```
+
+
+
+
+
+
+
+
+
+
+
+
+**split**, **strip**, **join** methodlarini birga ishlatib ko'ramiz
+
+```python
+name = 'Bugun tong otdi. Yana quyosh botdi.'
+
+ajrat = name.split('.')
+print(ajrat)
+# ['Bugun tong otdi', ' Yana quyosh botdi', '']
+
+join_str = ''.join([ajrat[1].strip(), '. ', ajrat[0],'.'])
+print(join_str)
+# Yana quyosh botdi. Bugun tong otdi.
 ```

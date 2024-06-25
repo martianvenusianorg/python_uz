@@ -13,3 +13,5 @@
 ### [String 5:](./string/string_4.html) String .isdigit(), .islower(), .isupper() va .isspace() methodlari.
 
 ### [String 6:](./string/string_5.html) String .split() va .join() methodlari.
+
+### [String 7:](./string/string_6.html) f-string va format()
