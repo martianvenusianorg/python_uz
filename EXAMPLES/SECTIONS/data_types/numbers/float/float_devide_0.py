@@ -1,4 +1,4 @@
 a = 0.2
-b = 0.1 
-print(b/a) 
-# 0.5
+b = 0.1
+c =  b/a
+print(c)

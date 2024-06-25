@@ -1,6 +1,6 @@
-name = 'Bugun tong otdi. Yana quyosh botdi.'
+s_str = 'Bugun tong otdi. Yana quyosh botdi.'
 
-ajrat = name.split('.')
+ajrat = s_str.split('.')
 print(ajrat)
 
 join_str = ''.join([ajrat[1].strip(), '. ', ajrat[0],'.'])
