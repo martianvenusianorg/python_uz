@@ -4,7 +4,7 @@ O'zgaruvchi (`variable`) bu ma'lum bir ma'lumot turi(`data type`)ga mansub bo'lg
 
 O'zgaruvchi o'z **_nomi_**(`name`) va **_qiymat_**(`value`)iga ega bo'ladi. O'zgaruvchilarni nomlash qonun-qoidalari va ularni qiymatlari to'g'risida birozdan keyin to'liq ma'lumotga ega bo'lasiz.
 
-Python dasturlash tilida xar bir o'zgaruvchi ma'lum tur(`data type`)ga ega bo'ladi. Bu ma'lumot turlari `Integer`, `String`, `Float`, `List`, `Tuple`, `String`, `Dictionary` va hakozo ma'lumot turlari bo'lishi mumkin. O'zgaruvchining ma'lumot turi huddi yuqoridagi misol kabi quti nima bilan to'ldirilganiga qarab uning qanaqa turdagi quti ekanligi ma'lum bo'ladi. Agar qutini olma bilan to'ldirsangiz demak bu quti o'zida olmani saqlovchi qutiga aylanadi. Agar qutini olmadan bo'shatib suv bilan to'ldirsangiz o'zida suv saqlovchi qutiga aylanadi. Ma'lumot turlari haqida keyingi darslarda bilib olasiz.
+Python dasturlash tilida xar bir o'zgaruvchi ma'lum tur(`data type`)ga ega bo'ladi. Bu ma'lumot turlari `Integer`, `String`, `Float`, `List`, `Tuple`, Set, `Dictionary` va hakozo ma'lumot turlari bo'lishi mumkin. O'zgaruvchining ma'lumot turi huddi yuqoridagi misol kabi quti nima bilan to'ldirilganiga qarab uning qanaqa turdagi quti ekanligi ma'lum bo'ladi. Agar qutini olma bilan to'ldirsangiz demak bu quti o'zida olmani saqlovchi qutiga aylanadi. Agar qutini olmadan bo'shatib suv bilan to'ldirsangiz o'zida suv saqlovchi qutiga aylanadi. Ma'lumot turlari haqida keyingi darslarda bilib olasiz.
 
 ### O'zgaruvchini e'lon qilish
 
@@ -25,6 +25,28 @@ print(name)
 ```
 
 Bu yerda biz **_Akbar_** degan ismni o'zida saqlovchi o'zgaruvchi yaratdek. Bu o'zgaruvchimizning nomini **_name_** deb belgiladek va uning qiymatini **_Akbar_** ismiga yani xarf va belgilardan iborat bo'lgan so'zga tenglashtirdek. **_print_** funksiyasi yordamida o'zgaruvchimizni chop qilib ko'ramiz va uning qiymati **_Akbar_**ga teng ekaniga ishonch hosil qilamiz. Bu o'zgaruvchimizning qiymati xarf va belgilardan tuzilgan so'zga teglashtirganimiz sababli uning ma'lumot turi `string` bo'ladi. Bu haqda keyingi darslarda bilib olasiz.
+
+### Bir va undan ortiq o'zgaruvchilarni e'lon qilish
+
+Bir nechta o'zgaruvchini bir vaqtning o'zida bir qatorda e'lon qilishimiz va ularning qiymatlarni o'zlashtirishimiz mumkin.
+
+```python
+x, y, z = 3, 10, 3.10
+print(x, y, z)
+# 3 10 3.1
+```
+
+```python
+python, cpp, dart = 'Python', 'C++', 'Dart'
+print(python, cpp, dart)
+# Python C++ Dart
+```
+
+```python
+language, version = "Python", 3.10
+print(language, version)
+# Python 3.1
+```
 
 ### O'zgaruvchilarni nomlash
 
