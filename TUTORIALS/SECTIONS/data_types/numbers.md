@@ -10,5 +10,4 @@
 
 ### [Raqamlar va pastki chiziq:](./numbers/underscore_in_numbers.html)  raqamlarni pastki chiziqlardan foydalanib guruhlash
 
-
-### Topshiriqlar
+### [Topshiriqlar](./numbers/try_it_yourself.html)
