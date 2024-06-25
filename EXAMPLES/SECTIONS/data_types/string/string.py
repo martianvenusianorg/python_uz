@@ -1,17 +1,6 @@
-# name = 'Bugung tong otdi. Yana quyosh botdi'
-# c = name.count('f')
-# f = name.find('s',3)
-# f = name.rfind()
-# f = name.lfind()
+# name = 'Bugun tong otdi. Yana quyosh botdi'
 
-# name = name.rstrip()
-# name = name.lstrip()
-# name = name.strip()
-# lower = name.lower()
-# upper = name.upper()
-# is_disit = name.isdigit()
-# is_lower = name.islower()
-# is_space = name.isspace()
+
 # ajrat = name.split('.')
 # join1 = ''.join([ajrat[1], ajrat[0]])
 # print(join1)
