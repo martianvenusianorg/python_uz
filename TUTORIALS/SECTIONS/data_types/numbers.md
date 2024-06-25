@@ -9,3 +9,6 @@
 ### [Noaniq natija:](./numbers/arbitrary_number.html) Amallarni bajarishda noaniqliklar?
 
 ### [Raqamlar va pastki chiziq:](./numbers/underscore_in_numbers.html)  raqamlarni pastki chiziqlardan foydalanib guruhlash
+
+
+### Topshiriqlar
