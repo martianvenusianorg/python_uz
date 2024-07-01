@@ -1,7 +1,10 @@
-print(f'5 + 3 = {5 + 3}')
-print(f'5 - 3 = {5 - 3}')
-print(f'5 * 3 = {5 * 3}')
-print(f'5 / 3 = {5 / 3}')
+a = 5
+b = 3
+print(f'{a} + {b} = {a + b}')
+print(f'{a} - {b} = {a - b}')
+print(f'{a} * {b} = {a * b}')
+print(f'{a} / {b} = {a / b}')
+
 # 5 + 3 = 8
 # 5 - 3 = 2
 # 5 * 3 = 15
