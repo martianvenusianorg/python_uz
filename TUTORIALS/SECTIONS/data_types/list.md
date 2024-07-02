@@ -11,3 +11,5 @@
 ### [List 4:](./list/list_4.html) List va _for_ takrorlovchi operatori va _range()_ metodi
 
 ### [List 5:](./list/list_5.html) List va _min()_, _max()_, _sum()_ metodlari
+
+### [Topshiriqlar](./list/list_try_it_yourself.html)
