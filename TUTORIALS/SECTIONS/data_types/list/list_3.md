@@ -62,7 +62,7 @@ print(sorted_names)
 
 Listni teskari tartibda tartiblash uchun .reverse() funksyasidan foydalanamiz.
 
-```
+```python-repl
 ages = [27, 28, 18, 19]
 print(ages)
 # [27, 28, 18, 19]
