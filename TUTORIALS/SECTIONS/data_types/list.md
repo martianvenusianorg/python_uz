@@ -4,9 +4,9 @@
 
 ### [List 1:](./list/list_1.html) List nima?
 
-### [List 2:](./list/list_2.html) Listning .appent(), .insert(), .pop(), .remove() metodlari va del operatori
+### [List 2:](./list/list_2.html) Listning *.appent()*, *.insert()*, *.pop()*, *.remove()* metodlari va del operatori
 
-### [List 3:](./list/list_3.html) List va _sort()_ metodi
+### [List 3:](./list/list_3.html) .*sort()*, _sorted()_ and .*reverse()* metodi
 
 ### [List 4:](./list/list_4.html) List va _for_ takrorlovchi operatori va _range()_ metodi
 
