@@ -60,7 +60,7 @@ print(sorted_names)
 
 ### `.reverse()` funksiyasi yordamida listni teskari tartibda tartiblash
 
-Listni teskari tartibda tartiblash uchun `.reverse()` funksyasidan foydalanamiz. 
+Listni teskari tartibda tartiblash uchun .reverse() funksyasidan foydalanamiz.
 
 ```
 ages = [27, 28, 18, 19]
