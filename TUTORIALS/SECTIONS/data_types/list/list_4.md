@@ -50,7 +50,7 @@ for age in ages:
 # Student's age is 28
 ```
 
-### `for` takrorlovchi operatori va `range()` funksiyasi yordamida listning elementlari ustida ishlash
+### `for` takrorlovchi operatori va `range(), len()` funksiyasi yordamida listning elementlari ustida ishlash
 
 **_for_** operatori **_range()_** funksiyasi yordamida listning elementlariga birma bir murojat qilish mumkin. Bunda **_range()_** funksiyasi yordamida listning qaysi elementidan qaysi elementigacha murojat qilishni belgilab olishingiz kerak bo'ladi. Misol uchun 1chi elementdan 3chi elementgacha listning elementlarini chop qilib ko'raylik. Buni quydagicha alamga oshirsa bo'ladi.
 
@@ -62,6 +62,22 @@ for i in range(1, 3):
 # akrom
 # humoyiddin
 ```
+
+`len()` metodi yordamida listing uzunligini yani elementlar sonini aniqlashimiz mumkin.
+
+```python
+ages = [18, 14, 42, 30, 1]
+print(len(ages))
+# 5
+```
+
+
+```python
+names = ['akbar', 'akrom', 'huoyiddin', 'dilmurod']
+print(len(names)
+# 4
+```
+
 
 Agar listning barcha elementlarini chop qilmoqchi bo'lsangiz unda buni quydagicha amalga oshirsangiz bo'ladi.
 

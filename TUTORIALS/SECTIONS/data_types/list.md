@@ -8,7 +8,7 @@
 
 ### [List 3:](./list/list_3.html) .*sort()*, _sorted()_ and .*reverse()* metodi
 
-### [List 4:](./list/list_4.html) List va _for_ takrorlovchi operatori va _range()_ metodi
+### [List 4:](./list/list_4.html) List va _for_ takrorlovchi operatori. _range()_ va len() metodi.
 
 ### [List 5:](./list/list_5.html) List va _min()_, _max()_, _sum()_ metodlari
 
