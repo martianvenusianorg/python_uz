@@ -57,12 +57,11 @@ print(sorted_names)
 # ['akbar', 'akrom', 'humoyiddin']
 ```
 
-
 ### `.reverse()` funksiyasi yordamida listni teskari tartibda tartiblash
 
 Listni teskari tartibda tartiblash uchun .reverse() funksyasidan foydalanamiz.
 
-```python-repl
+```python
 ages = [27, 28, 18, 19]
 print(ages)
 # [27, 28, 18, 19]
