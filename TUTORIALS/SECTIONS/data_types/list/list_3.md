@@ -80,9 +80,10 @@ print(names)
 ```
 
 
-Topshiriq:
 
-O'zingiz borishni istagan kamida beshta davlatning listini yarating:
+### **Topshiriq:**
+
+O'zingiz borishni istagan kamida beshta davlatning ro'yxatini yarating:
 
 * Joy nomlarini ro'yxatga joylang va ular alifbo tartibda bo'lmasin.
 * Roʻyxatni asl tartibda chop eting.
