@@ -78,3 +78,23 @@ names.reverse()
 print(names)
 # ['dilmurod', 'huoyiddin', 'akrom', 'akbar']
 ```
+
+
+Topshiriq:
+
+O'zingiz borishni istagan kamida beshta davlatning listini yarating:
+
+* Joy nomlarini ro'yxatga joylang va ular alifbo tartibda bo'lmasin.
+* Roʻyxatni asl tartibda chop eting.
+* Ro'yxatni haqiqiy tartibini saqlab qolgan holda sorted() dan foydalanib ro'yxatni alifbo tartibida chop eting.
+* Qayta chop etish orqali ro‘yxatingiz asl tartibda ekanligini tekshiring.
+* Asl ro'yxat tartibini o'zgartirmasdan ro'yxatingizni teskari alifbo tartibida chop etish uchun sorted() dan foydalaning.
+* Qayta chop etish orqali ro‘yxatingiz asl tartibda ekanligini tekshiring.
+* Ro'yxat tartibini o'zgartirish uchun reverse() dan foydalaning.
+* Uning tartibi o'zgarganligini ko'rsatish uchun ro'yxatni chop eting.
+* Roʻyxat tartibini yana oʻzgartirish uchun reverse() tugmasidan foydalaning.
+* Roʻyxat asl tartibiga qaytganini koʻrish uchun ro'yxatni chop eting.
+* Ro‘yxatni alifbo tartibida saqlash uchun sort() tugmasidan foydalaning.
+* Ro'yxatning tartibi o'zgarganligni ko'rsatish uchun uni chop eting.
+* Ro‘yxatni alifbo tartibida teskari tartibda saqlash uchun sort() tugmasidan foydalaning.
+* Uning tartibi o'zgarganligini ko'rish uchun ro'yxatni chop eting.
