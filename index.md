@@ -10,7 +10,7 @@
 
 ## **#3:** [String](./TUTORIALS/SECTIONS/data_types/string.html)
 
-## **#4:** [Boolean]
+## **#4:** [[Boolean]](./TUTORIALS/SECTIONS/data_types/boolean.html)
 
 ## **#5:** [List](./TUTORIALS/SECTIONS/data_types/list.html)
 
@@ -20,9 +20,22 @@
 
 ## **#8:** [Dictionary]
 
+# Control Flow
+
+## #9 if Statement
+
+## #10 while Statement
+
+## #11 for Statement
+
+## #12 Range() function
+
+
 # Classes
 
-## **#9:** [Classes](./TUTORIALS/SECTIONS/classes/classes.html)
+## **#13 Functions**
+
+## **#14:** [Classes]()
 
 <!-- ## **#2:** [Boolean](./tutorial_2.html)
 
