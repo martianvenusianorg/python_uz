@@ -31,9 +31,11 @@
 ## #12 Range() function
 
 
-# Classes
+# Functions
 
 ## **#13 Functions**
+
+# **Classes**
 
 ## **#14:** [Classes]()
 
