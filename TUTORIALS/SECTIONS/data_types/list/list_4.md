@@ -71,13 +71,11 @@ print(len(ages))
 # 5
 ```
 
-
 ```python
 names = ['akbar', 'akrom', 'huoyiddin', 'dilmurod']
 print(len(names)
 # 4
 ```
-
 
 Agar listning barcha elementlarini chop qilmoqchi bo'lsangiz unda buni quydagicha amalga oshirsangiz bo'ladi.
 
@@ -228,3 +226,16 @@ ten_step_numbers = list(range(0, 101, 10))
 print(ten_step_numbers)
 # [0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
 ```
+
+### **Topshiriq:**
+
+**1-1:** range() yordamida 3 sonidan boshlanib 99 soni bilan tugaydigan va elementlari 3ga o'sib boruvchi list yasang.
+
+**1-2:** len() funksyasidan foydalanib 1-1 topshiriqda yaratilgan ro'yxatning uzunligni tekshiring.
+
+**1-3:** Sevimli dasturlash tillaringizning kamida uchtasini o'ylab ko'ring. 
+
+* Ushbu dasturlash tillari nomlarini ro'yxatda saqlang.
+* Har bir dasturlash tili nomini chop etish uchun `for` dan foydalaning.
+* Har bir dasturlash tili nomini biror bir xabar bilan birgalikda `for` dan foydalanib qayta chop qiling, masalan, men Python dasturlash tilini yoqtiraman.
+* Dasturingiz oxirida, for siklidan tashqarida siz qaysi dasturlash tilini eng ko'p yo'qtirishingiz haqida yangi xabar chop qiling.

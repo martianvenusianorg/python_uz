@@ -20,7 +20,8 @@ print(f'\nKechgi ovqatga kelolmaydigan mehmon: {not_coming.title()}. Uning index
 new_guest = 'Suhrob'
 print(f'Yangi taklif qilingan mehmonning ismi: {new_guest.title()}.\n')
 
-names.remove(names[index_not_coming])
-names.insert(index_not_coming, new_guest.lower())
+names[index_not_coming] = new_guest
+# names.remove(names[index_not_coming])
+# names.insert(index_not_coming, new_guest.lower())
 for name in names:
     print(message.format(name.title()))
