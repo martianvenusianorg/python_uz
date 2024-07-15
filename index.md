@@ -18,7 +18,7 @@
 
 ## **#7:** [Set]
 
-## **#8:** [Dictionary]
+## **#8:** [[Dictionary]](./TUTORIALS/SECTIONS/data_types/dictionary.html)
 
 # Control Flow
 
@@ -29,7 +29,6 @@
 ## #11 for Statement
 
 ## #12 Range() function
-
 
 # Functions
 
