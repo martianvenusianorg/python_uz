@@ -31,3 +31,30 @@ Python dasturlash tilida ishlatiladigan so'zlardan lug'at tuzing:
 Misol uchun sizning lug'atingiz quydagicha bo'lishi mumkin
 
 python_dict = {'variable':'o`zgaruvchi','print':'chop qilish','key':'kalit', 'value':'qiymat'}
+
+---
+
+### Topshiriq 4:
+
+3-topshiriqda yaratgan lug'atingizga yangi python so'zlarini qo'shing va qayta chop eting:
+
+* Lug'atingiz yangi so'zlar qo'shing.
+* Lug'atni key (kalit)ga asoslanib tartiblang va chop qiling.
+* Lug'atni value (qiymat)ga asoslanib tartiblang va chop qiling.
+* Inglizcha va o'zbekcha so'zlarni ikki (:) nuqta yoki chiziqcha (-) bilan ajratib chop qilishingiz mumkin.
+
+### Topshiriq 5:
+
+Daryolar va ular oqib o'tadigan davlatlar haqidagi ma'lumotlarni o'zida saqlovchi dictionary yarating. Daryo nomini *key* (kalit) va daryo oqib utadigan davlatlar nomlarini *value* (qiymat) sifatida qabul qiling. Value bir va undan ortiq davlat nomlaridan iborat bo'lgan *list* bo'lsin. Siz tuzgan dictionary quydagicha bo'ladi:
+
+rivers_dict = {
+
+'lena': ['russia'],
+
+'syrdarya' : ['kyrgyzstan', 'uzbekistan', 'tajikistan', 'kazakhstan']
+
+}
+
+* Har bir daryo uchun u o'qib o'tadigan davlatlar nomini chiqaring
+* Agar davlat nomi bitta bo'lsa chop qilgan text quydagicha bo'lsin: *Lena daryosi Rossiyadan oqib o'tadi*.
+* Agar davlat nomi ikki va undan ortiq bo'lsa chop qilgan text quydagicha bo'lsin: *Sirdaryo kyrgyzstan, uzbekistan tajikistan va kazakhstan davlatlaridan oqib o'tadi.
