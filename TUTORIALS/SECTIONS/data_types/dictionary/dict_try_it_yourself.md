@@ -1,7 +1,8 @@
 ### Topshiriq
 
+#### Topshiriq 1:
 
-1. O'zingiz bilgan inson haqidagi ma'lumotlarni saqlaydigan dictionary yarating. Uning ismi, familiyasi, yoshi va yashash joyini kiriting. *first_name*, *last_name*, *age* va *city* so'zlarini kalit sifatida ishlating.
+O'zingiz bilgan inson haqidagi ma'lumotlarni saqlaydigan dictionary yarating. Uning ismi, familiyasi, yoshi va yashash joyini kiriting. *first_name*, *last_name*, *age* va *city* so'zlarini kalit sifatida ishlating.
 
 * Uning kalitlarini (*key*larini) chop qiling.
 * Uning qiymatlarini (*value*larini) chop qling.
@@ -10,13 +11,17 @@
 
 ---
 
-2. Do'tlaringizning sevimli dasturlash tillarini *dictionary*da saqlang. Beshta do'stingizni tanlang. Ularning ismlaridan *key* (kalit) sifatida foydalaning. Ularning sevimli dasturlash tillarini *dictionary*ning *value*lari (qiymatlari) sifatida ishlating.
+#### Topshiriq 2:
+
+Do'tlaringizning sevimli dasturlash tillarini *dictionary*da saqlang. Beshta do'stingizni tanlang. Ularning ismlaridan *key* (kalit) sifatida foydalaning. Ularning sevimli dasturlash tillarini *dictionary*ning *value*lari (qiymatlari) sifatida ishlating.
 
 * Har bir do'stingizning ismini va u yoqtirgan dasturlash tilini *print* (chop) qiling.
 
 ---
 
-3. Python dasturlash tilida ishlatiladigan so'zlardan lug'at tuzing:
+#### Topshiriq 3:
+
+Python dasturlash tilida ishlatiladigan so'zlardan lug'at tuzing:
 
 * Python dasturlash tilida mavjud bo'lgan so'zlarni kalit (*key*) sifatida qabul qiling.
 * Ularning o'zbekcha tarjimasini qiymatlar (*values*) sifatida qabul qiling.
