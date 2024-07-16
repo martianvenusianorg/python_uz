@@ -54,6 +54,9 @@ Har bir kalit o'ziga tegishli qiymat bilan uzviy bog'liq bo'ladi. Har bir kalit 
 
 Dictionary qiymatlari *integer*, *float*, *string*, *list* xatto *dictionary* kabi turli ma'lumot turlaridan iborat bo'lishi mumkin. Aniqroq aytadigan bo'lsak Python dasturlash tilida yaratish mumkin bo'lgan istalgan obyekt dictionaryning qiymatlari bo'lishi mumkin.
 
+****Eslatma:** Python 3.7 dan boshlab dictionary yaratilgan vaqtidagi o'z itemlar tartibini saqlab qoladi. Yangi qo'shilgan itemlar ham qo'shilgan navbatiga qarab tartiblanadi.
+**
+
 **Kalit yordamida qiymatga murojaat qilish**
 
 key yordamida uning valuesiga murojaat qilish uchun avvalo dictionary nomini yozamiz va to'rt burchak qavslar ichida *key*ni beramiz. Bu bizga valueni beradi. Bu quydagicha amalga oshiriladi:
@@ -92,5 +95,3 @@ car['y_position'] = 40
 print(car)
 # {'model': 'bmw', 'color': 'black', 'year': '2020', 'x_position': 10, 'y_position': 40}
 ```
-
-**Eslatma:** Python 3.7 dan boshlab dictionary yaratilgan vaqtidagi o'z itemlar tartibini saqlab qoladi. Yangi qo'shilgan itemlar ham qo'shilgan navbatiga qarab tartiblanadi.
