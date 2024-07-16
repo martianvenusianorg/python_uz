@@ -1,4 +1,4 @@
-### Topshiriq
+### Topshiriqlar
 
 #### Topshiriq 1:
 
