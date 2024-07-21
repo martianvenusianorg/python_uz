@@ -59,3 +59,9 @@ def func():
 ```
 
 Yuqoridagi misolda funksiyaning tanasi bir qator matn bilan boshlanmoqda. Bu matn *docstring* deb nomlanadi va bu matn funksiya nima ish bajarishi haqida ma'lumot beradi. *Docstring*lar uch juft qo'shtirnoqlar orasiga olingan bo'lishi kerak. Python hujjatlashni yaratganda aynan shu *docstring*larni qidiradi.
+
+#### Topshiriq
+
+**Topshiriq-1:** *display_message()* degan funksiya yarating va bu funksiyangiz siz python dasturlash tilini o'rganayotganingiz haqida xabar chiqarsin. Funksiyani ishga tushiring va funksiyangiz to'g'ri ishlayotganiga ishonch hosil qiling.
+
+**Topshiriq-2:** *favorite_language()* degan funksiya yarating va u o'zida *language_name* degan parameterni qabul qilsin. Funksiyangiz 'Mening sevimli kitobim PYTHON' yoki 'Mening sevimli kitobim C++' kabi xabarlarni chiqarsin. Funksiyangizni chaqiring va to'g'ri ishlayotganiga ishonch hosil qiling. Funksiyani chaqirganingizda 'python' yoki 'c++' kabi argumentlarni funksiyaga berishni unutmang.
