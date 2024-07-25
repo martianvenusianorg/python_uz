@@ -1,5 +1,5 @@
 # Functions
 
-### [Funksiya nima?](./functions/func_01.html)
+### [Funksiya nima?](./func_01.html)
 
-### [Funksiyaning parameter va argumentlari](./functions/func_02.html)
+### [Funksiyaning parameter va argumentlari](./func_02.html)
