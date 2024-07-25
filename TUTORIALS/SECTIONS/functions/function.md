@@ -3,3 +3,5 @@
 ### [Funksiya nima?](./func_01.html)
 
 ### [Funksiyaning parameter va argumentlari](./func_02.html)
+
+### **[Funksiyaning qiymatini qaytarish (Return Values)](./func_03.html)**
