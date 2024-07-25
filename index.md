@@ -32,7 +32,7 @@
 
 # Functions
 
-## **#13 [Functions](./TUTORIALS/SECTIONS/functions/functions.html)**
+## **#13 [Functions](./TUTORIALS/SECTIONS/functions/functions/function.html)**
 
 # **Classes**
 
