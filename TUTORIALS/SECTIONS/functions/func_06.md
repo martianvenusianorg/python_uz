@@ -1,0 +1,1 @@
+Funktsiyalarni modullarda saqlash

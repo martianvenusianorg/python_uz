@@ -138,7 +138,7 @@ animal_type uchun aniq argument berilganligi sababli, Python parametrning *defau
 
 ***ESLATMA:*** *Standart qiymatlardan foydalanganda standart qiymatga ega bo'lgan har qanday parametr standart qiymatlarga ega bo'lmagan barcha parametrlardan keyin ro'yxatga olinishi kerak. Bu Pythonga pozitsion argumentlarni to'g'ri talqin qilishni davom ettirish imkonini beradi.*
 
-### Funksiyaning chaqirishda turli yo'llar
+### Funksiyani chaqirishning turli yo'llari
 
 *Positional* argument, *keyword* va *default argument*larni birgalikda ishlatish mumkin bo'lganligi sababli  funksiyani chaqirishda ham bir qancha variantlarni qo'llash mumkin. *Default* parameterga ega quydagi funksiyani ko'rib chiqaylik:
 
@@ -169,7 +169,33 @@ Yuqoridagi barcha funksiya chaqiruvlari bir xil natija beradi.
 
 ### Argument kiritishda xatolarni oldini olish
 
-### TOPSHIRIQ:
+Funksiyalardan foydalanishni boshlaganingizda argumentlarning mos kelmaslik xatoligiga dush kelsangiz ko'p ham hayron bo'lavermang. Funksiya ishlashi uchun zarur bo'lgan parameterlar soni kam yoki ko'p kiritilishi bunday xatoliklarga olib kelishi mumkin. Misol uchun quydagi describe_pet()) funksiyasini argumentlarsiz kiritganimizda nima sodir bo'lishini ko'rib chiqaylik:
+
+```python
+def describe_pet(animal_type, pet_name):
+       """Display information about a pet."""
+       print(f"\nI have a {animal_type}.")
+       print(f"My {animal_type}'s name is {pet_name.title()}.")
+
+describe_pet()
+```
+
+Python funksiyamizda bazi ma'lumotlar yetishmayotganini payqaydi va *traceback* (xatolarni qidiruv tizimi) bizga bu haqida ma'lum qiladi.
+
+```
+Traceback (most recent call last):
+	File "pets.py", line 6, in <module>
+		describe_pet()
+TypeError: describe_pet() messing 2 required positional arguments: 'animal_type' and 'pet_name'
+```
+
+Traceback xato sodir bo'lgan o'rinni ko'rsatadi. Bu esa o'sha joyga borib funksiya ichida nima xato bo'lganini ko'rish imkoniyatini beradi. Yuqoridagi xotolikda *traceback* 2 ta argument qolib ketganini va argumentlarning nomlarini ko'rsatib beryapti. Xatto funksiyamiz boshqa bir faylda yozilgan bo'lsa ham biz funksiyaga murojat qilishda qilgan xatoyimizni qayta to'g'irlab yozishimiz mumkin bo'ladi.
+
+Python bizga funksiya codini o'qib taminlashimiz kerak bo'lgan parameterlar nimalar ekanligini aytib beradi. Bu sizning o'zgaruvchilaringiz va funktsiyalaringizga munosib nomlar berish uchun yana bir turtki beradi. Pythonning xatolik haqida beradigan xabarlari siz va siz yozgan koddan foydalanayotganlar uchun juda ham foydali bo'lishi mumkin.
+
+Agar siz juda ko'p argumentlar keltirsangiz, funktsiya chaqiruvingizni funktsiyangizga moslashtirishga yordam beradigan shunga o'xshash *traceback* siz uchun foydali bo'lishi mumkin.
+
+TOPSHIRIQ:
 
 **Topshiriq 3:**  make_shirt() degan funksiya yarating. Bu funksiyangiz *size* va *message* degan parameterlarga ega bo'lsin. Funksiyangizning tanasida kiyimning o'lchami(*size*)ni va kiyim ustiga yoziladigan xabar(*message*)ni chop (print) qilsin.
 
